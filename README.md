@@ -18,6 +18,12 @@ See: `community/REQUESTS.md`
 
 ## Proof / Builds
 
+### Vortex Group Landing (Showcase)
+**Live:** https://www.vortexgroup.xyz  
+**Code:** https://github.com/alc-powercouple/vortexgroup-landing-showcase
+
+Premium multi-brand landing page for Vortex Labs GmbH and German Crypto Institute. Built with Next.js 16, React 19, TypeScript, and Tailwind CSS. Features advanced domain routing, contact integration, and enterprise-grade security practices.
+
 ### Rust Rocket Landing (Showcase)
 **Live:** https://www.rustrocket.app  
 **Code:** https://github.com/alc-powercouple/rustrocket-landing-showcase
