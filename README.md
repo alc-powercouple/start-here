@@ -13,5 +13,13 @@ https://github.com/alc-powercouple/drop-02-luxury-client-intake
 📌 All Drops  
 See: `drops/README.md`
 
-💡 Request a Drop  
+💡 Request a Drop
 See: `community/REQUESTS.md`
+
+## Proof / Builds
+
+### Rust Rocket Landing (Showcase)
+**Live:** https://www.rustrocket.app  
+**Code:** https://github.com/alc-powercouple/rustrocket-landing-showcase
+
+Premium landing page for our Solana Telegram trading bot. Built with Next.js 16, React 19, TypeScript, and Tailwind CSS. Showcases enterprise-grade development practices and production-ready code quality.
